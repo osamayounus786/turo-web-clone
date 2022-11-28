@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/turo-web-clone/static/css/main.ee4cca42.css",
+    "main.js": "/turo-web-clone/static/js/main.aef3bc7e.js",
+    "static/js/787.1cfaff78.chunk.js": "/turo-web-clone/static/js/787.1cfaff78.chunk.js",
+    "static/media/banner.jpg": "/turo-web-clone/static/media/banner.91fd044763f9e2a7ff98.jpg",
+    "static/media/banner.webp": "/turo-web-clone/static/media/banner.cd02c0e63fcae6718e9f.webp",
+    "static/media/BasisGrotesquePro-Regular.ttf": "/turo-web-clone/static/media/BasisGrotesquePro-Regular.b130f1fba261011d315f.ttf",
+    "static/media/FontsFree-Net-BasisGrotesquePro-Bold.ttf": "/turo-web-clone/static/media/FontsFree-Net-BasisGrotesquePro-Bold.8aa4d23878cd66d91eb4.ttf",
+    "static/media/FreightText Bold.ttf": "/turo-web-clone/static/media/FreightText Bold.97bd7056c063c9b2692d.ttf",
+    "static/media/card3.jpg": "/turo-web-clone/static/media/card3.a57f36d8f5eacbbfdcc6.jpg",
+    "static/media/card1.jpg": "/turo-web-clone/static/media/card1.640d822c4d484848bb32.jpg",
+    "static/media/card6.jpg": "/turo-web-clone/static/media/card6.b41dac2b72460bdd6f8e.jpg",
+    "static/media/card4.jpg": "/turo-web-clone/static/media/card4.8960f7c44c90d221e012.jpg",
+    "static/media/card2.jpg": "/turo-web-clone/static/media/card2.90e9a965770eb1ad2dd9.jpg",
+    "static/media/card5.jpg": "/turo-web-clone/static/media/card5.03ee2abad1db3002b93f.jpg",
+    "static/media/card8.jpg": "/turo-web-clone/static/media/card8.3f4d211fb6f1f782b0b4.jpg",
+    "static/media/appstore.png": "/turo-web-clone/static/media/appstore.dacca1807b20f84a5964.png",
+    "static/media/card9.jpg": "/turo-web-clone/static/media/card9.69539a4820dc329ae4e0.jpg",
+    "static/media/logo.png": "/turo-web-clone/static/media/logo.eddd60beeb7a227cf959.png",
+    "static/media/card7.jpg": "/turo-web-clone/static/media/card7.8499b767dd88e25c9297.jpg",
+    "static/media/card10.jpg": "/turo-web-clone/static/media/card10.4d74723124fddac13ddc.jpg",
+    "static/media/googleplay.png": "/turo-web-clone/static/media/googleplay.85c9a4ccb1fc6f0abaa4.png",
+    "static/media/card2-color.png": "/turo-web-clone/static/media/card2-color.7064b8c11195719fca57.png",
+    "static/media/card2.png": "/turo-web-clone/static/media/card2.a05c3021cd46e6a1dfc4.png",
+    "static/media/app.svg": "/turo-web-clone/static/media/app.f00b6d70a908d97c20296a30a4379d8a.svg",
+    "index.html": "/turo-web-clone/index.html",
+    "main.ee4cca42.css.map": "/turo-web-clone/static/css/main.ee4cca42.css.map",
+    "main.aef3bc7e.js.map": "/turo-web-clone/static/js/main.aef3bc7e.js.map",
+    "787.1cfaff78.chunk.js.map": "/turo-web-clone/static/js/787.1cfaff78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee4cca42.css",
+    "static/js/main.aef3bc7e.js"
+  ]
+}
